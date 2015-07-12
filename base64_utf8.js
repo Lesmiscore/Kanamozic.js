@@ -1,5 +1,4 @@
 (function (global) {
-    'use strict';
     if (global.Base64) return;
     var version = "2.1.1";
     // if node.js, we use Buffer
